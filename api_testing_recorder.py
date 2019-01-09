@@ -6,6 +6,9 @@ import peewee
 import requests
 import platform
 import configparser
+##########################################
+##################废弃！##################
+##########################################
 
 
 cf = configparser.ConfigParser()
